@@ -6,9 +6,6 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "start": "node  --loader ts-node/esm ./src/bot.ts"
-  },
   "dependencies": {
     "@drift-labs/sdk": "^0.1.30-master.0",
     "@project-serum/anchor": "^0.23.0",
